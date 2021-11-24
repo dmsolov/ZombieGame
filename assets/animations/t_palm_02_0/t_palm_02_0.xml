@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Animation animationTexture="t_palm_02_0.png" name="t_palm_02_0">
+  <frames>
+    <list>
+      <Frame flippedXOffset="0" flippedYOffset="0" height="290" ticks="1" width="173" x="0" xOffset="0" y="0" yOffset="0"></Frame>
+    </list>
+  </frames>
+  <int value="-9493557"></int>
+</Animation>

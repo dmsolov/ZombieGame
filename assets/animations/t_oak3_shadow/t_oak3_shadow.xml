@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Animation animationTexture="t_oak3_shadow.png" name="t_oak3_shadow">
+  <frames>
+    <list>
+      <Frame flippedXOffset="0" flippedYOffset="0" height="115" ticks="1" width="163" x="0" xOffset="0" y="0" yOffset="0"></Frame>
+    </list>
+  </frames>
+  <int value="-1909250"></int>
+</Animation>

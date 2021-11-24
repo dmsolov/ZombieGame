@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Animation animationTexture="b_tower_0.png" name="b_tower_0">
+  <frames>
+    <list>
+      <Frame flippedXOffset="0" flippedYOffset="0" height="185" ticks="1" width="137" x="0" xOffset="0" y="0" yOffset="0"></Frame>
+    </list>
+  </frames>
+</Animation>

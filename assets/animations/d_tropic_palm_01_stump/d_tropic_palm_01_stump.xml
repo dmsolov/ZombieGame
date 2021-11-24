@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<Animation animationTexture="d_tropic_palm_01_stump.png" name="d_tropic_palm_01_stump">
+  <frames>
+    <list>
+      <Frame flippedXOffset="0" flippedYOffset="0" height="56" ticks="1" width="92" x="0" xOffset="0" y="0" yOffset="0"></Frame>
+    </list>
+  </frames>
+  <int value="-13028277"></int>
+</Animation>
